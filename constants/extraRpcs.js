@@ -1668,5 +1668,11 @@ export default {
         "rpcs": [
             "https://www.3sps.net",
         ]
-    }
+    },
+    "15000": {
+        "rpcs": [
+            "http://35.74.125.196:8545",
+        ]
+    },
+    
 }
